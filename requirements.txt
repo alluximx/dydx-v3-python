@@ -14,3 +14,4 @@ sympy==1.6
 tox==3.25.0
 web3>=5.0.0,<6.0.0
 importlib-metadata>=1.6.1
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
